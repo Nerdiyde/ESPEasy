@@ -1,3 +1,13 @@
+# Nerdiys ESPEasy fork 
+This software is forked from the original you can find under https://github.com/letscontrolit/ESPEasy/tree/v2.0
+The major changes compared to the original are added plugins which will be described in the following list.
+|Plugin Name|Number|Additional Information under|
+|--|--|--|
+|--|--|--|
+
+## Original Readme.md from here
+
+
 # ESPEasy (v2.0 stable branch)
 
 Build status: [![Build Status](https://travis-ci.org/letscontrolit/ESPEasy.svg?branch=v2.0)](https://travis-ci.org/letscontrolit/ESPEasy)
