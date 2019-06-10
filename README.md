@@ -1,8 +1,8 @@
 # Nerdiys ESPEasy fork 
 This software is forked from the original you can find under https://github.com/letscontrolit/ESPEasy/tree/v2.0
 The major changes compared to the original are added plugins which will be described in the following list.
+
 |Plugin Name|Number|Additional Information under|
-|--|--|--|
 |--|--|--|
 
 ## Original Readme.md from here
